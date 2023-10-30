@@ -11,6 +11,11 @@
   z-index: 0;
   list-style: none;
   border: 0px;
+  font-family: TTLakes;
+}
+@font-face {
+  font-family: TTLakes;
+  src: url("font/TTLakesNeueComp-Medium.ttf");
 }
 
 .main__unit--active {
@@ -45,7 +50,7 @@ body {
   margin: auto 0;
 }
 .text__class {
-  padding: 40px 24px;
+  padding: 30px 24px;
   gap: 32px;
   display: inline-block;
   font-size: 16px;
@@ -58,7 +63,7 @@ body {
   width: 4px;
   height: 32px;
   margin-left: -24px;
-  margin-top: -6px;
+  margin-top: -3px;
   background-color: #41f6d7;
 }
 .text__class p:hover {
@@ -68,7 +73,7 @@ body {
 .icon {
   gap: 16px;
   display: inline-flex;
-  padding: 108px 24px 0px 24px;
+  padding: 35px 24px 0px 24px;
   border: 0px;
 }
 .info {

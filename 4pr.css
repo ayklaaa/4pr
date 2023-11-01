@@ -54,7 +54,7 @@ body {
   padding: 30px 24px;
   gap: 32px;
   display: inline-block;
-  font-size: 16px;
+  font-size: 19px;
   border: 0px;
 }
 .text__class p:hover::before {

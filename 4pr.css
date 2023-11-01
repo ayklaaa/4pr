@@ -12,6 +12,7 @@
   list-style: none;
   border: 0px;
   font-family: TTLakes;
+    box-shadow: 10px 1px 100px rgb(138, 129, 129);
 }
 @font-face {
   font-family: TTLakes;

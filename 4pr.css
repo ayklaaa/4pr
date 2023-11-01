@@ -89,3 +89,11 @@ button {
   color: inherit;
   background-color: transparent;
 }
+.info__lang {
+  display: inline-flex;
+  gap: 10px;
+  margin: -20px 0px 0px 0px;
+}
+.info__lang p:hover {
+  color: #7e7e82;
+}

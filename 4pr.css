@@ -2,7 +2,7 @@
   display: none;
   width: 320px;
   height: 1024px;
-  background-color: #e0d3d3;
+  background-color: #while;
   position: fixed;
   top: 0;
   right: 0;
@@ -12,7 +12,7 @@
   list-style: none;
   border: 0px;
   font-family: TTLakes;
-    box-shadow: 10px 1px 100px rgb(138, 129, 129);
+  box-shadow: 10px 1px 100px rgb(138, 129, 129);
 }
 @font-face {
   font-family: TTLakes;
